@@ -2,6 +2,10 @@
 A convenient BMI (Body Mass Index) calculator that is compatible with Android devices.🖥
 BMI Calculator with Height and Weight Number Picker and Feet to Centimeters Converter
 
+![bmi](https://user-images.githubusercontent.com/48319985/225869557-8b9384ff-34bf-4cc4-bb45-c87411189e27.gif)
+
+
+
 This BMI calculator is designed to help you calculate your Body Mass Index (BMI) based on your height and weight. In addition, it includes a number picker for selecting your height and weight, as well as a feet to centimeters converter for those who prefer to use the metric system.
 
 How to use the calculator:
